@@ -16,7 +16,7 @@ Welcome to the Ecommerce Project! This project is a simple e-commerce website bu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gauyash/e-commerce.git
+   git clone https://github.com/Bijaya1000/E-commerce-website.git
 2. Navigate to the project directory:
     ```bash
     cd e-commerce
